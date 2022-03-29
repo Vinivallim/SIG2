@@ -1,9 +1,7 @@
 ### Fatec ZL - Centro Paula Souza
 ##### Disciplina - Programação Web III
 Grupo 2
-Joaquim da Silva Xavier
-Jose Bonifacio
-Isabel Cristina Leopoldina
+Vinícius Guido Vallim
 ##### Processo de Desenvolvimento de Software - PDS
 > O PDS segue uma abordagem interativa incremental. Cada atividade da interação tem uma definição de pronto estabelecida com objetivo de controlar a qualidade.
 ```mermaid
