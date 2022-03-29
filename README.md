@@ -68,4 +68,8 @@ As classes conceituais relacionadas aos requisitos para esta interação foram i
 
 ![f1_modelo_de_dominio](https://user-images.githubusercontent.com/101647611/160609428-25c059a0-1720-4142-b8e0-d34a9c017402.jpg)
 
-Considerando requisitos de negócio que envolvem a utilização do sistema flexível para os tipos de dispositivos de entrada (desktop, dispositivos moveis ou totens) a arquitetura segue o estilo Hexagonal que isola o núcleo da aplicação (camada interna) da camada externa que é tudo que se comunica com a aplicação, banco de dados, serviços de e-mail e os controllers (RICHARDSON, 2018, p.38). A parte externa pode ser modificada de acordo com a necessidade melhorando a testabilidade do software considerando que as modificações na camada externa não impactam a camada interna devido ao seu isolamento.
+Considerando requisitos de negócio que envolvem a utilização do sistema flexível para os tipos de dispositivos de entrada (desktop, dispositivos moveis ou totens) a arquitetura segue o estilo Hexagonal que isola o núcleo da aplicação (camada interna) da camada externa que é tudo que se comunica com a aplicação, banco de dados, serviços de e-mail e os controllers (RICHARDSON, 2018, p.38).
+
+![f2_arq_hexagonal](https://user-images.githubusercontent.com/101647611/160611916-c26010ff-d585-45d6-a83a-b8d2814fb0ce.jpg)
+
+A parte externa pode ser modificada de acordo com a necessidade melhorando a testabilidade do software considerando que as modificações na camada externa não impactam a camada interna devido ao seu isolamento.
