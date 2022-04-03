@@ -1,7 +1,11 @@
 ### Fatec ZL - Centro Paula Souza
 ##### Disciplina - Programação Web III
-Grupo 2 
+Grupo 2 - < Squirrel Tech >
 Vinícius Guido Vallim
+Antonio Gabriel Pinheiro Lima
+Gustavo Neves de Oliveira
+Igor Machado Joaquim
+Aline Michelle da Silva Santana
 
 ##### Processo de Desenvolvimento de Software - PDS
 > O PDS segue uma abordagem interativa incremental. Cada atividade da interação tem uma definição de pronto estabelecida com objetivo de controlar a qualidade. 
