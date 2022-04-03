@@ -1,10 +1,15 @@
 ### Fatec ZL - Centro Paula Souza
 ##### Disciplina - Programação Web III
 Grupo 2 - < Squirrel Tech >
+
 Vinícius Guido Vallim
+
 Antonio Gabriel Pinheiro Lima
+
 Gustavo Neves de Oliveira
+
 Igor Machado Joaquim
+
 Aline Michelle da Silva Santana
 
 ##### Processo de Desenvolvimento de Software - PDS
